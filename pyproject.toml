@@ -6,7 +6,7 @@ authors = ["Vanessa Gaigher <vanessa.mat.sedu@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.12.1"
+python = "3.12.6"
 numpy = "^2.0.0"
 matplotlib = "^3.9.1"
 seaborn = "^0.13.2"
